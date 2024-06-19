@@ -1,0 +1,9 @@
+*_result/
+*.pt
+runs/
+.ipynb_checkpoints
+model_test/detected_frame
+model_test/frame
+model_test/pothole_detected_frame
+model_test/pothole_frame
+model_test/test_data

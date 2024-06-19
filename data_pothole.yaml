@@ -1,0 +1,7 @@
+train: /home/work/road_mark/data/pothole_data/train/images/
+val: /home/work/road_mark/data/pothole_data/valid/images/
+test: /home/work/road_mark/data/pothole_data/test/images/
+
+# Classes
+names:
+  0: pothole

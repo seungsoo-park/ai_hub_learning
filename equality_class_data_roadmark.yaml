@@ -1,0 +1,10 @@
+train: /home/work/road_mark/data/eqaulity_class_roadmark_data/train/images/
+val: /home/work/road_mark/data/eqaulity_class_roadmark_data/valid/images/
+test: /home/work/road_mark/data/eqaulity_class_roadmark_data/test/images/
+
+# Classes
+names:
+  0: crosswalk
+  1: d_crosswalk
+  2: bump
+  3: d_bump
